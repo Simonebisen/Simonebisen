@@ -17,7 +17,7 @@
 
 > *"Turning raw data into decisions that matter."*
 
-I'm a **Business Intelligence Engineer & Data Analyst** pursuing my MS in Information Systems at **Regis University, Denver**. I specialize in building end-to-end data pipelines, automated reporting systems, and interactive dashboards that give organizations real-time visibility into their operations.
+I'm a **Business Intelligence Engineer & Data Analyst** who did MS in Information Systems at **Regis University, Denver**. I specialize in building end-to-end data pipelines, automated reporting systems, and interactive dashboards that give organizations real-time visibility into their operations.
 
 With hands-on experience across **SQL, Tableau, Power BI, and Python**, I've reduced manual reporting by 75%+, consolidated millions of records into clean data models, and delivered insights that directly shaped business strategy — from logistics optimization to pricing decisions.
 
