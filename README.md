@@ -17,7 +17,7 @@
 
 > *"Turning raw data into decisions that matter."*
 
-I'm a **Data Analyst** pursuing an MS in Information Systems at **Regis University, Denver**, who turns ambiguous business problems into production analytics and self-serve BI. I specialize in building end-to-end ETL pipelines, automated reporting systems, and interactive dashboards that give organizations real-time visibility into their operations.
+I am a **Data Analyst** MS in Information Systems Graduate at **Regis University, Denver**, who turns ambiguous business problems into production analytics and self-serve BI. I specialize in building end-to-end ETL pipelines, automated reporting systems, and interactive dashboards that give organizations real-time visibility into their operations.
 
 With advanced SQL (CTEs, window functions, rolling aggregations) and Python (OOP + pandas) across **Snowflake, AWS, and RDBMS**, I've cut manual reporting effort by ~75% across multi-million-row datasets, and I apply GenAI/Agentic AI tooling (LangChain, LangGraph) to accelerate analytics workflows.
 
@@ -84,7 +84,7 @@ Currently seeking full-time roles in: **Data Science · Data Analytics · Busine
 
 Multi-agent RAG platform combining Gemini AI, Pinecone vector DB, and SEC EDGAR to automate stock analysis with technical indicators (MACD, RSI, Bollinger Bands) and financial valuation models. Vector-embedding retrieval over 10-K filings reduces manual research time.
 
-[📂 View Project](#)
+[📂 View Project](https://github.com/Simonebisen/Advanced-Stock-Report-Generator-using-RAG)
 
 </td>
 <td width="50%">
@@ -94,7 +94,7 @@ Multi-agent RAG platform combining Gemini AI, Pinecone vector DB, and SEC EDGAR 
 
 Predictive recommendation system using NLP (TF-IDF, Word2Vec) and matrix-factorization collaborative filtering, achieving 82% accuracy over a 100K+ record pharmacy inventory. Deployed on GCP (BigQuery, Cloud Storage, Cloud Run) for real-time recommendations.
 
-[📂 View Project](#)
+[📂 View Project](https://ijsrset.com/IJSRSET2310936)
 
 </td>
 </tr>
@@ -106,12 +106,12 @@ Predictive recommendation system using NLP (TF-IDF, Word2Vec) and matrix-factori
 
 Integrated sales, purchase, inventory, and cost data to evaluate pricing, profitability, and vendor performance. Built KPI frameworks and interactive dashboards tracking gross profit, pricing trends, inventory turnover, and cost efficiency.
 
-[📂 View Project](#)
+[📂 View Project](https://github.com/Simonebisen/Supplier-Performance-Analytics-Pipeline)
 
 </td>
 <td width="50%">
 
-### 🏭 Logistics BI Platform *(@ Playhouse AI)*
+### 🏭 Logistics BI Platform
 **Stack:** SQL, Tableau
 
 Centralized BI platform tracking fulfillment network performance across 3M+ records, with near real-time dashboards, automated reporting layers, and standardized KPI definitions.
