@@ -17,9 +17,9 @@
 
 > *"Turning raw data into decisions that matter."*
 
-I'm a **Business Intelligence Engineer & Data Analyst** who did MS in Information Systems at **Regis University, Denver**. I specialize in building end-to-end data pipelines, automated reporting systems, and interactive dashboards that give organizations real-time visibility into their operations.
+I'm a **Data Analyst** pursuing an MS in Information Systems at **Regis University, Denver**, who turns ambiguous business problems into production analytics and self-serve BI. I specialize in building end-to-end ETL pipelines, automated reporting systems, and interactive dashboards that give organizations real-time visibility into their operations.
 
-With hands-on experience across **SQL, Tableau, Power BI, and Python**, I've reduced manual reporting by 75%+, consolidated millions of records into clean data models, and delivered insights that directly shaped business strategy — from logistics optimization to pricing decisions.
+With advanced SQL (CTEs, window functions, rolling aggregations) and Python (OOP + pandas) across **Snowflake, AWS, and RDBMS**, I've cut manual reporting effort by ~75% across multi-million-row datasets, and I apply GenAI/Agentic AI tooling (LangChain, LangGraph) to accelerate analytics workflows.
 
 Currently seeking full-time roles in: **Data Science · Data Analytics · Business Intelligence · Business Analysis**
 
@@ -31,19 +31,27 @@ Currently seeking full-time roles in: **Data Science · Data Analytics · Busine
 
 ### Languages & Querying
 ![SQL](https://img.shields.io/badge/SQL-Advanced-003B6F?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-OOP%20%7C%20Pandas-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### BI & Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard%20Design-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Reporting-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### Databases & Platforms
-![MySQL](https://img.shields.io/badge/MySQL-Database%20Design-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Databases & Cloud Platforms
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-ETL%20%7C%20Modeling-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database%20Design-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Data-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20Redshift-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+### GenAI / Agentic AI
+![LangChain](https://img.shields.io/badge/LangChain-LLM%20Workflows-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic%20AI-1C3C3C?style=flat-square)
 
 ### Core Competencies
-`ETL Pipeline Design` `Data Modeling` `Dashboard Automation` `KPI Frameworks` `Window Functions` `CTEs` `Stakeholder Communication` `Operational Analytics`
+`ETL Pipeline Design` `Data Modeling` `Dashboard Automation` `KPI Frameworks` `Window Functions` `CTEs` `Predictive Modeling` `Stakeholder Communication` `Operational Analytics`
 
 </div>
 
@@ -51,16 +59,17 @@ Currently seeking full-time roles in: **Data Science · Data Analytics · Busine
 
 ## 💼 Experience Highlights
 
-### 🤖 AI & BI Intern — Playhouse AI *(Sep 2025 – Dec 2025)*
-- Built a centralized BI platform in **SQL + Tableau** monitoring **3M+ shipment records** across the logistics network
+### 📊 Data Analyst — Playhouse AI (MAI Reality Inc.) *(Jul 2025 – Dec 2025, Remote)*
+- Built a centralized BI platform in **SQL + Tableau** monitoring **3M+ shipment and operational records** across the fulfillment network
 - Automated dashboards reduced manual reporting effort by **~75%**
-- Developed ETL workflows integrating warehouse scan logs, carrier metrics, and fulfillment KPIs with full validation logic
-- Used advanced SQL (CTEs, window functions, rolling aggregations) to surface bottlenecks and facility-level performance gaps
+- Designed scalable SQL-based ETL workflows and automated reporting pipelines integrating shipment, warehouse, and carrier data, with validation checks and standardized metric definitions
+- Used advanced SQL (CTEs, window functions, rolling aggregations) to surface delays, bottlenecks, and facility-level performance gaps, partnering with Operations and Supply Chain teams
 
-### 📊 Data Analyst — IT PROTON *(Jan 2022 – Mar 2024)*
-- Consolidated **50+ Excel files / 500K+ records** into a centralized SQL database using Python
-- Automated a weekly reporting pipeline, saving stakeholders **40+ hours/month**
+### 📊 Data Analyst — IT PROTON *(Jan 2024 – Jun 2024, Pune, India)*
+- Used Python to merge **50+ Excel files / 500K+ records** into a single, centralized SQL table
+- Automated a manual pivot-table/spreadsheet process, saving stakeholders **~40 hours/month**
 - Built Tableau dashboards for real-time revenue monitoring and KPI tracking
+- Partnered with business stakeholders to define KPIs and deliver data-driven insights in a time-sensitive client-service environment
 
 ---
 
@@ -70,20 +79,20 @@ Currently seeking full-time roles in: **Data Science · Data Analytics · Busine
 <tr>
 <td width="50%">
 
-### 🍕 Pizza Sales SQL Analytics
-**Stack:** MySQL, SQL
+### 📈 Intelligent Stock Analysis (Multi-Agent RAG for SEC Filings)
+**Stack:** Python, RAG, Pinecone, FastMCP, Alpha Vantage API, SEC EDGAR, SERPAPI
 
-End-to-end sales analytics on a normalized 4-table schema with 2,000+ orders and 500K+ records. Advanced SQL: joins, subqueries, window functions, cumulative revenue trends, top-selling product analysis.
+Multi-agent RAG platform combining Gemini AI, Pinecone vector DB, and SEC EDGAR to automate stock analysis with technical indicators (MACD, RSI, Bollinger Bands) and financial valuation models. Vector-embedding retrieval over 10-K filings reduces manual research time.
 
 [📂 View Project](#)
 
 </td>
 <td width="50%">
 
-### 👥 HR Analytics Dashboard
-**Stack:** Tableau, Figma
+### 💊 MedSwap — Alternate Medicine Recommendation System
+**Stack:** Python, SQL, Machine Learning, NLP
 
-Executive-level HR dashboard covering hiring, attrition, compensation, and performance. Built with calculated fields, LOD logic, parameters, and a polished Figma-designed UI/UX layout.
+Predictive recommendation system using NLP (TF-IDF, Word2Vec) and matrix-factorization collaborative filtering, achieving 82% accuracy over a 100K+ record pharmacy inventory. Deployed on GCP (BigQuery, Cloud Storage, Cloud Run) for real-time recommendations.
 
 [📂 View Project](#)
 
@@ -92,20 +101,20 @@ Executive-level HR dashboard covering hiring, attrition, compensation, and perfo
 <tr>
 <td width="50%">
 
-### 🚲 Bike Share Pricing & Revenue Analytics
-**Stack:** SQL Server, Power BI
+### 📦 Vendor Performance Data Analysis
+**Stack:** Python, Power BI, SQL, ETL
 
-Multi-year bike share transaction data consolidated from raw Excel files into a SQL Server data model. Connected to Power BI for KPI tracking, rider segmentation, and demand analysis — resulting in a data-driven **10–15% price increase recommendation**.
+Integrated sales, purchase, inventory, and cost data to evaluate pricing, profitability, and vendor performance. Built KPI frameworks and interactive dashboards tracking gross profit, pricing trends, inventory turnover, and cost efficiency.
 
 [📂 View Project](#)
 
 </td>
 <td width="50%">
 
-### 📦 Logistics BI Platform *(@ Playhouse AI)*
+### 🏭 Logistics BI Platform *(@ Playhouse AI)*
 **Stack:** SQL, Tableau
 
-Centralized BI platform tracking transportation and fulfillment performance across 3M+ records. Near real-time operational dashboards with automated reporting layers and standardized KPI definitions.
+Centralized BI platform tracking fulfillment network performance across 3M+ records, with near real-time dashboards, automated reporting layers, and standardized KPI definitions.
 
 [📂 View Project](#)
 
